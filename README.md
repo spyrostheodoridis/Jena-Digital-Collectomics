@@ -1,2 +1,2 @@
 # Jena-Digital-Collectomics
-A set of python scripts for image clustering and segmentation of digitized herbarium specimens
+A python pipeline for image segmentation of digitized herbarium specimens using unsupervised clustering and supervised pattern recognition
